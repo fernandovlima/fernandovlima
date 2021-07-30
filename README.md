@@ -12,6 +12,7 @@
 - ⚡ Fun fact **always open to a happy hour 🍻**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/fernando-lima-492822116">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,16 +21,17 @@
    <a href="https://www.instagram.com/f_ern_ndo">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  
-  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="center"> 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  </p>
+
+</p>
   <p aliggn="center">
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
