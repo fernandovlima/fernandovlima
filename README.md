@@ -22,3 +22,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandovlima&show_icons=true&locale=en" alt="fernandovlima" /></p>
+
+[![fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fernandovlima)](https://github.com/anuraghazra/github-readme-stats)
+
