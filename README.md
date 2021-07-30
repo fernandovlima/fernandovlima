@@ -25,12 +25,11 @@
 
 <h3 align="left">Workspace</h3>
 
-<p align="left">
+<div>
    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   
    ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-  
-</p>
+</div>
 
 <h3 align="left">Languages</h3>
 
