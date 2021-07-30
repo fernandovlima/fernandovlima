@@ -25,7 +25,7 @@
 
 <h3 align="left">Workspace</h3>
 
-<p align="center">
+<p align="left">
    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   
    ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
@@ -34,7 +34,7 @@
 
 <h3 align="left">Languages</h3>
 
-<p align="center"> 
+<p align="left"> 
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
@@ -48,7 +48,7 @@
 
  <h3 align="left">Frameworks</h3>
  
- <p align="center">
+ <p align="left">
   
     </br><span>Front-end</span></br>
   
