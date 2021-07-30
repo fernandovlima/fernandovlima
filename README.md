@@ -26,7 +26,7 @@
 <h3 align="left">Setup</h3>
 
 <p align="center">
-   ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+   ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 </p>
 
 <h3 align="left">Languages</h3>
