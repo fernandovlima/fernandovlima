@@ -103,7 +103,7 @@
 ![fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandovlima&show_icons=true&theme=merko)
 
 
-[![fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fernandovlima)]
+<!-- [![fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fernandovlima)] -->
 
 
 
