@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandovlima&label=Profile%20views&color=0e75b6&style=flat" alt="fernandovlima" /> </p>
 
-- 🔭 I’m currently working on **Amplifyre's platform**
+- 🔭 I’m currently working on **Grupo SOMA as a Tech Lead for Animale brand**
 
 - 💬 Ask me about **react, graphql**
 
